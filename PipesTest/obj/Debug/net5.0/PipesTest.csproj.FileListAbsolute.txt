@@ -1,0 +1,17 @@
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\bin\Debug\net5.0\PipesTest.exe
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\bin\Debug\net5.0\PipesTest.deps.json
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\bin\Debug\net5.0\PipesTest.runtimeconfig.json
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\bin\Debug\net5.0\PipesTest.runtimeconfig.dev.json
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\bin\Debug\net5.0\PipesTest.dll
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\bin\Debug\net5.0\ref\PipesTest.dll
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\bin\Debug\net5.0\PipesTest.pdb
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\obj\Debug\net5.0\PipesTest.csprojAssemblyReference.cache
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\obj\Debug\net5.0\PipesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\obj\Debug\net5.0\PipesTest.AssemblyInfoInputs.cache
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\obj\Debug\net5.0\PipesTest.AssemblyInfo.cs
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\obj\Debug\net5.0\PipesTest.csproj.CoreCompileInputs.cache
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\obj\Debug\net5.0\PipesTest.dll
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\obj\Debug\net5.0\ref\PipesTest.dll
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\obj\Debug\net5.0\PipesTest.pdb
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\obj\Debug\net5.0\PipesTest.genruntimeconfig.cache
+C:\Users\micha\RiderProjects\PipesTest\PipesTest\bin\Debug\net5.0\pipeback.py
